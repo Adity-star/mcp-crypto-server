@@ -146,3 +146,15 @@ async def get_crypto_price(crypto_id: str, currency: str = "usd") -> str:
 if __name__ == "__main__":
     mcp.run()
 ```
+---
+
+## 📈 Then Level Up: Build the yFinance Stock Server
+Once you're familiar with the flow, move on to this more advanced stock tracker 💹
+
+🔗 GitHub Repo:
+[https://github.com/Adity-star/mcp-yfinance-server](https://github.com/Adity-star/mcp-yfinance-server)
+
+📝 Detailed Blog:
+👉 [How I Built My Own Stock Server with Python, yFinance, and a Touch of Nerdy Ambition](https://medium.com/@aakuskar.980/how-i-built-my-own-stock-server-with-python-yfinance-and-a-touch-of-nerdy-ambition-b562dc1d7b93)
+
+Enjoy Learnings !
